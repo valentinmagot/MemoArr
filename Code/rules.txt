@@ -1,0 +1,29 @@
+A Memory Game 
+
+In this year’s project, you are asked to implement a memory card game called Memoarrr! as a console game.  Various reviews and discussion of the games can be found on sites such as “The Opinionated Gamer” or “Board Game Geek”. 
+
+The following specification is for the base game but you will also have to program two advanced variants of the game. In general, there are 25 memory cards that will show a combination of an animal and a background colour. There are five different animals: crab, penguin, octopus, turtle and walrus and five different background colours:  red, green, purple, blue and yellow for a total combination of 25 cards. The game can be played with 2-4 players. 
+
+In the physical game, the cards are placed face down in a 5 times 5 square but the center position remains free for the volcano and treasure cards.  (Note that means one of the regular animal card is not in the game).  In our adaption, we don’t use volcano or treasure cards but simply leave the center position empty. The players take turns to uncover a card where the uncovered card has to match the previously uncovered card’s animal or background colour. The uncovered cards remain on the table face up. If the player uncovers a card that doesn’t match the previously uncovered card, the player is out of the current round. A round of play ends with only one player remaining  who then wins the current round and  receives 1-4 rubies randomly.  If there are no more cards to turn over then the players still in the game continue to take their turns but lose until only one player is left who wins the round. After the current round the cards remain in place but are turned face down again. After seven rounds, the game ends and the player with the most rubies wins. In the physical game there are 3 cards with one ruby, 2 cards with 2 rubies, and 1 card with 3 rubies as well as 1 with 4 rubies. 
+
+
+Base Game 
+
+In the base game, the rules as described above are used and we will display the card with a 3 x 3 array of characters and with a space of one character and row between cards hence the overall board is 19 rows by 19 characters. The animals and the background colour will be identified by their first letter in capital and small caps receptively. For example, the following symbolizes a Walrus card with yellow background: 
+yyy 
+yWy 
+yyy
+
+Cards that are not yet uncovered will be marked by all small caps z. An example of the game board with four cards uncovered  is shown below. The position of the cards is marked with a letter for the row and a number for the column.  The current round may have progressed A1 D1 B4 D3.
+
+There can be 2-4 players. The game starts by each player looking secretly at the three cards directly in front of them. The ruby score of each player will only be revealed at the end of the game. 
+
+
+Expert Display Mode  
+
+In this version, the rules are the same as in the base mode but the board with the array of cards is removed. Instead only the face up cards are shown in a row along with the position they came from. 
+
+
+Expert Rules Mode  
+
+In this version, the cards or rather have some added meaning. When an octopus card is turned over, the card is exchanging position with an adjacent card in the same row or the same column (4-neighbourhood). The adjacent card may be face up or down and will remain unchanged.  If a player turns over a penguin, then this player is allowed to turn a face-up card face-down. If the penguin is the first card turned up, no special action will take place. The walrus enables a player to block a face down card for the next player and hence the next player must choose another location. The player who turns over a crab card must immediately turn over another card. If that card does not fit, the player loses the current round. Finally, with the turtle the next player in the current round is skipped, i.e., the next player will not turn over a card and will not lose in the next step. 

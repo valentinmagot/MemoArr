@@ -1,0 +1,712 @@
+Memoarr, the board game. Implemented by Maxime & Valentin
+
+Press any key to START the game setup or 1 to how to play
+1
+This game have two displays:
+0 for normal
+1 for expert
+1
+Expert display choose
+
+This game have two differents set of rules:
+0 for normal
+1 for expert
+1
+Expert rule choose
+
+Players players: 2 to 4
+2
+Enter player 1 name
+a
+Enter player 2 name
+s
+START
+
+ROUND 1
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+3
+Turtle:
+Next player get his turn skip!
+
+
+yyy
+yTy
+yyy
+
+A3
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+2
+Penguin:
+current player can face down a face up card!
+
+yyy yyy
+yPy yTy
+yyy yyy
+
+A2  A3
+
+Card to face down:
+Letter A, B, C, D, E:
+A
+Number 1, 2, 3, 4, 5:
+3
+
+yyy
+yPy
+yyy
+
+A2
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+3
+Turtle:
+Next player get his turn skip!
+
+
+yyy yyy
+yPy yTy
+yyy yyy
+
+A2  A3
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+4
+Turtle:
+Next player get his turn skip!
+
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+5
+
+yyy yyy bbb ppp
+yPy yTy bTb pWp
+yyy yyy bbb ppp
+
+A2  A3  A4  A5
+
+a : Top active
+s : Right inactive
+
+
+ROUND 2
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+D
+Number 1, 2, 3, 4, 5
+2
+Crab:
+Current player can play again!
+
+
+yyy
+yCy
+yyy
+
+D2
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+2
+Penguin:
+current player can face down a face up card!
+
+yyy yyy
+yPy yCy
+yyy yyy
+
+A2  D2
+
+Card to face down:
+Letter A, B, C, D, E:
+D
+Number 1, 2, 3, 4, 5:
+2
+
+yyy
+yPy
+yyy
+
+A2
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+D
+Number 1, 2, 3, 4, 5
+2
+Crab:
+Current player can play again!
+
+
+yyy yyy
+yPy yCy
+yyy yyy
+
+A2  D2
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+D
+Number 1, 2, 3, 4, 5
+3
+
+yyy yyy bbb
+yPy yCy bWb
+yyy yyy bbb
+
+A2  D2  D3
+
+a : Top active
+s : Right inactive
+
+
+ROUND 3
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+D
+Number 1, 2, 3, 4, 5
+3
+Walrus:
+Current player can choose a card to block for the next turn!
+
+bbb
+bWb
+bbb
+
+D3
+
+Block a face down card:
+Letter A, B, C, D, E:
+A
+Number 1, 2, 3, 4, 5::
+4
+
+bbb
+bWb
+bbb
+
+D3
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+4
+Your card is block!!!
+
+bbb bbb
+bTb bWb
+bbb bbb
+
+A4  D3
+
+a : Top active
+s : Right inactive
+
+
+ROUND 4
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+4
+Turtle:
+Next player get his turn skip!
+
+
+bbb
+bTb
+bbb
+
+A4
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+2
+
+yyy bbb
+yPy bTb
+yyy bbb
+
+A2  A4
+
+a : Top inactive
+s : Right active
+
+
+ROUND 5
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+4
+Turtle:
+Next player get his turn skip!
+
+
+bbb
+bTb
+bbb
+
+A4
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+B
+Number 1, 2, 3, 4, 5
+5
+Turtle:
+Next player get his turn skip!
+
+
+bbb ppp
+bTb pTp
+bbb ppp
+
+A4  B5
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+D
+Number 1, 2, 3, 4, 5
+4
+
+bbb ppp bbb
+bTb pTp bOb
+bbb ppp bbb
+
+A4  B5  D4
+
+a : Top active
+s : Right inactive
+
+
+ROUND 6
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+E
+Number 1, 2, 3, 4, 5
+3
+Crab:
+Current player can play again!
+
+
+ggg
+gCg
+ggg
+
+E3
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+E
+Number 1, 2, 3, 4, 5
+2
+Crab:
+Current player can play again!
+
+
+bbb ggg
+bCb gCg
+bbb ggg
+
+E2  E3
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+E
+Number 1, 2, 3, 4, 5
+4
+
+bbb ggg ppp
+bCb gCg pOp
+bbb ggg ppp
+
+E2  E3  E4
+
+a : Top inactive
+s : Right active
+
+
+ROUND 7
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+Top player a see his three middle fronts cards
+
+yyy yyy bbb
+yPy yTy bTb
+yyy yyy bbb
+
+A2  A3  A4
+
+Enter to continue.
+
+Right player s see his three middle fronts cards
+
+ppp ggg ggg
+pTp gWg gOg
+ppp ggg ggg
+
+B5  C5  D5
+
+Enter to continue.
+
+
+
+
+
+No more cards is available.
+
+a : Top active
+s : Right active
+
+s on the Right turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+1
+Walrus:
+Current player can choose a card to block for the next turn!
+
+rrr
+rWr
+rrr
+
+A1
+
+Block a face down card:
+Letter A, B, C, D, E:
+A
+Number 1, 2, 3, 4, 5::
+2
+
+rrr
+rWr
+rrr
+
+A1
+
+a : Top active
+s : Right active
+
+a on the Top turn!
+Letter (A, B, C, D, E)
+A
+Number 1, 2, 3, 4, 5
+2
+
+rrr yyy
+rWr yPy
+rrr yyy
+
+A1  A2
+
+a : Top inactive
+s : Right active
+
+Game Over
+Scores:
+s : 5 rubies
+
+a : 9 rubies
+
+The winner is a with 9 rubies.
